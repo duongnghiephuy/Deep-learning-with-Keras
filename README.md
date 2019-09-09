@@ -1,2 +1,3 @@
 # huy
-Start studying deep learning  and doing some projects
+Start studying deep learning with Keras 
+mnist dataset

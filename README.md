@@ -1,2 +1,2 @@
 # huy
-Start studying deep learning  and do some projects
+Start studying deep learning  and doing some projects

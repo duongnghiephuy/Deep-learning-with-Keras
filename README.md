@@ -6,5 +6,8 @@ The notebook is not rendered properly, so I copy the link of the notebook into t
 https://nbviewer.jupyter.org/
 
 L1: Digits recognition - mnist dataset.  My first exposure to deep learning. It is so interesting
-L2: Movie reviews classification- imdb dataset
+
+L2: Topic classification of newswires - reuters dataset 
+
+L3: Movie reviews classification- imdb dataset
 
